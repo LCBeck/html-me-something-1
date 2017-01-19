@@ -1,0 +1,32 @@
+body {
+	margin-left: 12.5em;
+	margin-right: 12.5em;
+	padding-left: 10em;
+	padding-right: 10em;
+	padding-top: 1.25em;
+	padding-bottom: 1.25em;
+}
+
+h1 {
+	padding-left: 3em;
+}
+
+.article_images {
+	height: 50%;
+	width: 50%;
+	padding-left: 10em;
+}
+
+#endnote {
+	padding-left: 20em;
+}
+
+img.licensing {
+	border-width:0;
+}
+
+
+#email:hover {
+	font-size: 30px;
+	color: violet;
+}
